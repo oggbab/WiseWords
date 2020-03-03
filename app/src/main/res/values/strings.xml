@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PoemsDay</string>
+
+    <!--    splash-->
+    <string name="copyright_text">development by soon2</string>
+    <string name="default_poem" >내 귀는 소라껍질\n바다소리를\n그리워하네.</string>
+</resources>
