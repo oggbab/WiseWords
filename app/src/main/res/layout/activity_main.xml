@@ -5,25 +5,24 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:weightSum="21"
     android:background="@color/colorBgGray"
     >
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:theme="@style/Widget.AppCompat.Toolbar"
+        android:layout_height="48dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
         />
 
     <FrameLayout
         android:id="@+id/fr_main"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         tools:layout="@layout/layout_main"
         android:background="@drawable/bg_gray_border"
-        android:layout_weight="20"
         android:layout_margin="30dp"/>
 
 </LinearLayout>

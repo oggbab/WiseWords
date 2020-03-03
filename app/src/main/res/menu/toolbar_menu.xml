@@ -4,13 +4,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     >
     <item
-        android:id="@+id/action_cut"
-        android:title="M"
-        app:showAsAction="always"
-        />
-    <item
-        android:id="@+id/action_copy"
-        android:title="U"
-        app:showAsAction="always"
-        />
+        android:id="@+id/menu_setting"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_setting"
+        android:title="system" />
 </menu>
