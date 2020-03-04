@@ -1,4 +1,4 @@
-package com.example.wisewordsapp.common
+package com.example.wisewordsapp.common.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

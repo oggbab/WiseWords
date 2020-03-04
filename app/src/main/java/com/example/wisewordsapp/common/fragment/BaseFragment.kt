@@ -1,4 +1,4 @@
-package com.example.wisewordsapp.common
+package com.example.wisewordsapp.common.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

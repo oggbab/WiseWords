@@ -3,7 +3,7 @@ package com.example.wisewordsapp.app
 import android.os.Bundle
 import com.example.wisewordsapp.R
 import com.example.wisewordsapp.app.main.MainActivity
-import com.example.wisewordsapp.common.BaseActivity
+import com.example.wisewordsapp.common.activity.BaseActivity
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
