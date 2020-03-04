@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:padding="30dp"
     android:gravity="center_vertical"
+    android:id="@+id/rel_main"
     >
 
     <View
